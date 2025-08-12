@@ -5,11 +5,11 @@ Hi there 👋!
 - A **Full-Stack & Cybersecurity Engineer** based in **Mumbai, India** with hands-on experience in backend development, microservices, and secure application design.
 - Final-year **B.E. Information Technology** student at the **University of Mumbai** with an **Honors Degree in Cybersecurity**.
 - Passionate about building scalable web applications, integrating AI, and implementing secure software solutions.
-- See my portfolio at **[rashiddshaikh.dev](https://rashiddshaikh.dev)** *(replace with your real portfolio link if different)*.
+- See my portfolio at **[rashiddshaikh.dev](https://rashiddshaikh.dev)**.
 
 #### What I'm doing?
 
-- Writing `Java`, `Spring Boot`, `Next.js`, `JavaScript`, `TypeScript`.
+- Writing `Java`, `Spring Boot`, `Next.js`, `JavaScript`.
 - Building secure RESTful APIs & full-stack applications.
 - Exploring AI-powered solutions and Cybersecurity tools.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/rashidshaikh-dev)**.
