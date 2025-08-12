@@ -41,9 +41,10 @@ Hi there 👋!
 <a href="https://www.linkedin.com/in/rashidshaikh-dev">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
-<a href="https://github.com/rashiddshaikh">
-  <img align="left" alt="GitHub" width="22px" src="./assets/github.svg" />
+<a href="mailto:rashidshaikh.dev@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="./assets/gmail.svg" />
 </a>
+
 
 <br/>
 <br/>
