@@ -9,7 +9,7 @@ Hi there 👋!
 
 #### What I'm doing?
 
-- Writing `Java`, `Spring Boot`, `Next.js`, `JavaScript`.
+- Writing `Java`, `Spring Boot`, `React.js`, `Next.js`,  `JavaScript`.
 - Building secure RESTful APIs & full-stack applications.
 - Exploring AI-powered solutions and Cybersecurity tools.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/rashidshaikh-dev)**.
@@ -17,22 +17,18 @@ Hi there 👋!
 #### What are my skill sets?
 
 - 🗄️ **Backend:**
-  - **Programming:** `Java` • `JavaScript` • `TypeScript` • `PHP`
+  - **Programming:** `Java` • `JavaScript`
   - **Frameworks:** `Spring Boot` • `Spring JDBC` • `Nest.js` • `Node.js`
   - **Databases:** `MySQL` • `PostgreSQL`
-  - **Architecture:** `Monolithic` • `Microservices`
+  - **Architecture:** `Microservices`
   - **Protocols:** `REST` • `Web Socket`
   - **Tools:** `ActiveMQ` • `Stripe API` • `AWS EC2` • `AWS RDS`
 
 - 🖥 **Frontend:**
-  - **Programming:** `JavaScript` • `TypeScript`
+  - **Programming:** `JavaScript`
   - **Frameworks/Libraries:** `React.js` • `Next.js`
-  - **UI Toolkit:** `Tailwind CSS` • `Bootstrap` • `Ant Design`
+  - **UI Toolkit:** `Tailwind CSS` • `Bootstrap`
   - **Utils:** `Axios` • `Mapbox`
-
-- 🔐 **Cybersecurity:**
-  - `Vulnerability Assessment (VAPT)` • `Ethical Hacking` • `Digital Forensics`
-  - Tools: `SIEM` • `Wireshark` • `Burp Suite`
 
 - ⚙️ **Ecosystem:**
   - **Containerization:** `Docker` (basic)
@@ -44,9 +40,6 @@ Hi there 👋!
 
 <a href="https://www.linkedin.com/in/rashidshaikh-dev">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-</a>
-<a href="mailto:rashidshaikh.dev@gmail.com">
-  <img align="left" alt="Email" width="22px" src="./assets/gmail.svg" />
 </a>
 <a href="https://github.com/rashiddshaikh">
   <img align="left" alt="GitHub" width="22px" src="./assets/github.svg" />
