@@ -7,6 +7,10 @@
  </p>
  
 
+
+
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
 #### Who I am?
 
 - A **Full-Stack & Cybersecurity Engineer** based in **Mumbai, India** with hands-on experience in backend development, microservices, and secure application design.
@@ -26,7 +30,7 @@
 - 🗄️ **Backend:**
   - **Programming:** `Java` • `JavaScript`
   - **Frameworks:** `Spring Boot` • `Spring JDBC` • `Nest.js` • `Node.js`
-  - **Databases:** `MySQL` • `PostgreSQL`
+  - **Databases:** `MySQL` •
   - **Architecture:** `Microservices`
   - **Protocols:** `REST` • `Web Socket`
   - **Tools:** `ActiveMQ` • `Stripe API` • `AWS EC2` • `AWS RDS`
@@ -35,7 +39,6 @@
   - **Programming:** `JavaScript`
   - **Frameworks/Libraries:** `React.js` • `Next.js`
   - **UI Toolkit:** `Tailwind CSS` • `Bootstrap`
-  - **Utils:** `Axios` • `Mapbox`
 
 - ⚙️ **Ecosystem:**
   - **Containerization:** `Docker` (basic)
