@@ -16,7 +16,6 @@
 - A **Full-Stack & Cybersecurity Engineer** based in **Mumbai, India** with hands-on experience in backend development, microservices, and secure application design.
 - Final-year **B.E. Information Technology** student at the **University of Mumbai** with an **Honors Degree in Cybersecurity**.
 - Passionate about building scalable web applications, integrating AI, and implementing secure software solutions.
-- See my portfolio at **[rashiddshaikh.dev](https://rashiddshaikh.dev)**.
 
 #### What I'm doing?
 
