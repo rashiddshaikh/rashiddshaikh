@@ -56,6 +56,23 @@
 
 <br/>
 <br/>
+
+
+---
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ragav15P&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<br/>
+<br/>
+
+## 🚀 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,python,mysql,git,github" />
+</p>
+<br/>
+<br/>
 <br/>
 <!--
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
