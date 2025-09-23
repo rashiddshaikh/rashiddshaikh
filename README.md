@@ -45,6 +45,7 @@
   - **CI/CD:** `GitHub Actions`
   - **Project Management:** `Jira`
 
+<!--
 #### How to reach me?
 
 <a href="https://www.linkedin.com/in/rashidshaikh-dev">
@@ -53,24 +54,32 @@
 <a href="mailto:rashiddshaikh.dev@gmail.com">
   <img align="left" alt="Gmail" width="40px" height="40px" src="./assets/gmail.svg" />
 </a>
+-->
 
-<br/>
-<br/>
-
-
----
-## 📊 GitHub Stats  
+## 🌍 Connect with Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ragav15P&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/rashiddshaikh">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rashidshaikh-dev/">
+     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rashidd.shaikh/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
-
-<br/>
-<br/>
 
 ## 🚀 Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,python,mysql,git,github" />
 </p>
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ragav15P&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+
 <br/>
 <br/>
 <br/>
