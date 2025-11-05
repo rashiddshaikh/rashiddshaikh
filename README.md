@@ -26,7 +26,7 @@
 
 - 🗄️ **Backend:**
   - **Programming:** `Java` • `JavaScript`
-  - **Frameworks:** `Spring Boot` • `Spring JDBC` • `Nest.js` • `Node.js`
+  - **Frameworks:** `Spring Boot` • `Spring JDBC` • `Spring JPA` • `Hibernate` • `Nest.js` • `Node.js`
   - **Databases:** `MySQL` •
   - **Architecture:** `Microservices`
   - **Protocols:** `REST` • `Web Socket`
