@@ -3,13 +3,11 @@
 </p>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=Awan-Maknojia&label=Profile%20views&color=ce9927&style=flat" alt="Awan-Maknojia" />
+<img src="https://komarev.com/ghpvc/?username=rashiddshaikh&label=Profile%20views&color=ce9927&style=flat" alt="" />
  </p>
  
-
-
-
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
 
 #### Who I am?
 
@@ -89,6 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rashiddshaikh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashiddshaikh" alt="" /></a> </p>
 
 <br/>
 <br/>
