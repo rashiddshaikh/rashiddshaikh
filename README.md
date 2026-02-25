@@ -8,19 +8,16 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rashidshaikh-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
 <a href="https://rashid-shaikh.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Mumbai,%20India-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&labelColor=18181b&color=111111&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAADeElEQVR42q2UW2hcVRSGv7XPPjNnLklmzCSNSmmNqFha79ZSiHhBi6IIpSCEQsEHKwRaH2IpPgoq+BAQzZPXWvNQkIK1Xp6Ueq1GNChF2jExl6YmnWaSTDKdyzl7bx9mYiPBG3Q97v3zs9ba//4EcFzGUlzm0iKgPPlbgYn+OoCn12qtcbimTP515FUKUeDsP3coXetb3PZHWzHO4HkeUWQau1AQVjUfvTmLI2waezzYexWpTIh1grWOuOfx5fvLzEwvIkrQ12wO2DdYokIFhWCaDQkQkKB9XTfvvDgKzvDw7o30H16gwiIOhcORRnFdTycDeyLqURkd1g0LUZ2Ki9AaktIwrADFWkjvcx5jpzoxVUffKyUK9Tm8GCQAA0xVYOuuc9z6bhsnP6ygRQSlhZiD5TmfE0c1grD+Jsu1W2tYNY8kq7TnWolnClQMnDsV4/QJoaVT0bMrJIul7eoy4NA0R/QFCuOKV/cKUKP3YJYt22oYq6iWI5JaqBlN3IsY/dZnsM9Ho/j8sThB4iKjIxqRsGG48pDiQUdHAut8rugKiCwklcOPQSwhpDzLZBW27a6z+Z405/Oa6R98Pn4rxUR+GuXJJcOag3U3RDz/nSGdTuDii4hyTE/EKIwLF/IRp0cybLilSIUQv3uW9m64Y4dw91NdHNrXzSdDEyhwuGaHyaRhw8YFdG4GP71EIe9zbDBg7EfNmZ8KPLsDvj+W4bdhja0HBCgKVUhlf+eBp+cRiaNBcIAnMD/jc3woxv17q6RSll+m4nx9JABVYNNtObZsTzB2MsVn7y0QUuLGO1t44rUKzobMTi9hrWr8ZUHwES5MwuH+BIv5Dpw4br+vzJ6BGjZKsKlH2P/yeR5/4Vce2h9y/c0Zcl05dMxDiSPdqgBBOwdR5HA4/LiH80scOpCj/0iS5eAid+1cYuczWVw5RckVKdQM9/YVeaTPx2BZqkektGJqxEcpg/JjQkYrshrSLeCJYvjTWU4MtdKdFLRYnnypzM9fVHmjP0tXoEkDhjpguDKm+OZ4wNsHHFpb9NkzIa8fTFFedizNeVhXw1rD8AeO4mQbpXINEwlnx4vkBzRRNYdhASsKweEr4aujishUsM6sRFCa4WlAwVq7BpdKCQ6Dsx5gV6GomWOxDScRnHiXEGUNfxojq5nXPPfWQm/l7r/x8H/WH6vfdMymauw0AAAAAElFTkSuQmCC&logoColor=adff2f"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Mumbai,_India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&labelColor=1e293b&color=0f172a"/>&nbsp;
+<img src="https://img.shields.io/badge/●_Open_to_Work-166534?style=for-the-badge&labelColor=052e16&color=166534"/>
 
 </div>
 
@@ -82,18 +79,8 @@ public class RashidShaikh {
 
 <div align="center">
 
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║  Stats cards use github-readme-stats.vercel.app          ║
-  ║  If cards show "not available", it's a rate-limit issue  ║
-  ║  on the public instance. Fix: deploy your own instance → ║
-  ║  github.com/anuraghazra/github-readme-stats#deploy-on-vercel ║
-  ║  Then replace the domain below with your own instance.   ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
-<img src="https://github-readme-stats.vercel.app/api?username=rashiddshaikh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=f97316&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=percentile&card_width=440&border_radius=10&disable_animations=false" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashiddshaikh&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=8b949e&layout=compact&langs_count=6&card_width=335&border_radius=10&exclude_repo=github-readme-stats" height="185"/>
+<img src="https://github-readme-stats-xi-gilt-54.vercel.app/api?username=rashiddshaikh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=f97316&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=percentile&card_width=440&border_radius=10&disable_animations=false" height="185"/>
+<img src="https://github-readme-stats-xi-gilt-54.vercel.app/api/top-langs/?username=rashiddshaikh&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=8b949e&layout=compact&langs_count=6&card_width=335&border_radius=10&exclude_repo=github-readme-stats" height="185"/>
 
 </div>
 
@@ -114,10 +101,10 @@ public class RashidShaikh {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rashidshaikh-dev">
-  <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
 <a href="https://rashid-shaikh.vercel.app/">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&labelColor=18181b&color=111111&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAADeElEQVR42q2UW2hcVRSGv7XPPjNnLklmzCSNSmmNqFha79ZSiHhBi6IIpSCEQsEHKwRaH2IpPgoq+BAQzZPXWvNQkIK1Xp6Ueq1GNChF2jExl6YmnWaSTDKdyzl7bx9mYiPBG3Q97v3zs9ba//4EcFzGUlzm0iKgPPlbgYn+OoCn12qtcbimTP515FUKUeDsP3coXetb3PZHWzHO4HkeUWQau1AQVjUfvTmLI2waezzYexWpTIh1grWOuOfx5fvLzEwvIkrQ12wO2DdYokIFhWCaDQkQkKB9XTfvvDgKzvDw7o30H16gwiIOhcORRnFdTycDeyLqURkd1g0LUZ2Ki9AaktIwrADFWkjvcx5jpzoxVUffKyUK9Tm8GCQAA0xVYOuuc9z6bhsnP6ygRQSlhZiD5TmfE0c1grD+Jsu1W2tYNY8kq7TnWolnClQMnDsV4/QJoaVT0bMrJIul7eoy4NA0R/QFCuOKV/cKUKP3YJYt22oYq6iWI5JaqBlN3IsY/dZnsM9Ho/j8sThB4iKjIxqRsGG48pDiQUdHAut8rugKiCwklcOPQSwhpDzLZBW27a6z+Z405/Oa6R98Pn4rxUR+GuXJJcOag3U3RDz/nSGdTuDii4hyTE/EKIwLF/IRp0cybLilSIUQv3uW9m64Y4dw91NdHNrXzSdDEyhwuGaHyaRhw8YFdG4GP71EIe9zbDBg7EfNmZ8KPLsDvj+W4bdhja0HBCgKVUhlf+eBp+cRiaNBcIAnMD/jc3woxv17q6RSll+m4nx9JABVYNNtObZsTzB2MsVn7y0QUuLGO1t44rUKzobMTi9hrWr8ZUHwES5MwuH+BIv5Dpw4br+vzJ6BGjZKsKlH2P/yeR5/4Vce2h9y/c0Zcl05dMxDiSPdqgBBOwdR5HA4/LiH80scOpCj/0iS5eAid+1cYuczWVw5RckVKdQM9/YVeaTPx2BZqkektGJqxEcpg/JjQkYrshrSLeCJYvjTWU4MtdKdFLRYnnypzM9fVHmjP0tXoEkDhjpguDKm+OZ4wNsHHFpb9NkzIa8fTFFedizNeVhXw1rD8AeO4mQbpXINEwlnx4vkBzRRNYdhASsKweEr4aujishUsM6sRFCa4WlAwVq7BpdKCQ6Dsx5gV6GomWOxDScRnHiXEGUNfxojq5nXPPfWQm/l7r/x8H/WH6vfdMymauw0AAAAAElFTkSuQmCC&logoColor=adff2f"/>
 </a>
 
 <br/><br/>
