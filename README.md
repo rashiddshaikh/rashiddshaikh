@@ -32,7 +32,7 @@ public class RashidShaikh {
     String[] stack    = { "Java", "Spring Boot", "React.js", "Next.js", "Node.js", "MySQL" };
     String[] infra    = { "AWS EC2", "AWS RDS", "Docker", "GitHub Actions" };
     String   arch     = "Microservices · REST APIs · WebSockets · Event-Driven (ActiveMQ)";
-    String   edu      = "B.E. Information Technology (Hons. Cybersecurity) · University of Mumbai";
+    String   edu      = "B.E. Information Technology · Honors in Cybersecurity · University of Mumbai";
 
     String   approach = "Write clean code. Design for scale. Ship with confidence.";
 }
